@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMRUDESHPS
 - 👀 I’m interested in creating new vulnerability exploiting tools
-- 🌱 I’m currently learning mern and ccsn
+- 🌱 I’m currently learning mern and ccna
 - 💞️ I’m looking to collaborate on core programing field
 
 <!---
