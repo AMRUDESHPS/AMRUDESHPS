@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **react, mongodb, CEH**
 
- 💬 Ask me about **mern, React, MongoDB... or anything [here](https://www.linkedin.com/in/amrudesh-ps)**
+ 💬 Ask me about **mern, MongoDB... or anything [here](https://www.linkedin.com/in/amrudesh-ps)**
  
 </div>
 
