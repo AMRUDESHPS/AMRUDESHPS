@@ -37,6 +37,7 @@
 
 <hr>
  <h2 align='center'>Little more about me</h2>
+ 
 - 👀 I’m interested in creating new vulnerability exploiting tools
 
 - 💞️ I’m looking to collaborate on core programing field
@@ -54,7 +55,7 @@
 <hr>
 
 <!---snake section --->
-
+<h2>⚡Littile fun</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
