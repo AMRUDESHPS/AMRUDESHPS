@@ -13,9 +13,9 @@
   
  🔭 I’m currently studying **B-tech**
  
- 🌱 I’m currently learning **react, mongodb, CEH**
+ 🌱 I’m currently learning **React, TypeScript, MongoDB, CEH**
 
- 💬 Ask me about **mern, MongoDB... or anything [here](https://www.linkedin.com/in/amrudesh-ps)**
+ 💬 Ask me about **MERN, MongoDB... or anything [here](https://www.linkedin.com/in/amrudesh-ps)**
  
 </div>
 
